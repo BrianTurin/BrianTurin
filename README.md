@@ -30,3 +30,5 @@
 ---
 
 ⭐️ *Si llegaste hasta acá, gracias por leer. ¡Seguimos aprendiendo y creando!* 🚀
+
+![Mi GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h3cnh0OTUwa2JnaDdiMnp3ajViZmN4bmV6c2VubGZ5eXZsbmt2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WzR8zb0PN6bUmfz4DW/giphy.gif)
